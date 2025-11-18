@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "lab_10",
+            "request": "launch",
+            "mainClass": "lab_10",
+            "projectName": "program_f1a2126f"
+        },
+        {
+            "type": "java",
+            "name": "lab10",
+            "request": "launch",
+            "mainClass": "lab10",
+            "projectName": "program_f1a2126f"
+        }
+    ]
+}
